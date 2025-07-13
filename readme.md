@@ -2,7 +2,7 @@ This repository demonstrates our work, an encoder for GGHead inversion. Our enco
 
 ## Experiment Results
 
-Upper line shows the original result of GGHead and underline demonstrates inversion results.
+Upper line shows the original result of GGHead and bottom line demonstrates inversion results.
 
 ![image](./demo/front_view.png)
 
